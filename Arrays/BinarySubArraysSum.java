@@ -1,1 +1,26 @@
+// Approach : prefix + hashmap (frequency of prefix sums)
+// TIme complexity : 0(n)
+// space complexity : 0(n)
 
+
+// The value we get after the operation of prefix - k, if that value is already exists in the map, then the frequency of the value = number of subarrays
+public int numSubarraysWithSum(int[] nums, int k) {
+    HashMap<Integer, Integer> map = new HashMap<>();
+
+    int prefixSum = 0;
+    int count = 0;
+
+    map.put(0, 1); 
+
+    for (int num : nums) {
+        prefixSum += num;
+
+        if (map.containsKey(prefixSum - k)) {
+            count += map.get(prefixSum - k);
+        }
+
+        map.put(prefixSum, map.getOrDefault(prefixSum, 0) + 1);
+    }
+
+    return count;
+}

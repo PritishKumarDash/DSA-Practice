@@ -41,8 +41,10 @@ class Solution {
                     que.offer(node.right);
                 }
             }
-            res.add(0, currentLevel);
+            // res.add(0, currentLevel);
+             res.add(currentLevel);
         }
+        Collections.reverse(res);
         return res;
     }
 }

@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0547-number-of-provinces](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0547-number-of-provinces](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1765-map-of-highest-peak](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1765-map-of-highest-peak) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -174,4 +177,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->

@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0547-number-of-provinces](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
@@ -150,4 +151,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->

@@ -41,10 +41,10 @@ class Solution {
                     que.offer(node.right);
                 }
             }
-            // res.add(0, currentLevel);
+            // res.add(0, currentLevel); Time complexity - 0(n^2)
              res.add(currentLevel);
         }
-        Collections.reverse(res);
+        Collections.reverse(res); // Time complexity - 0(n)
         return res;
     }
 }

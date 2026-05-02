@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0993-cousins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1367-linked-list-in-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1367-linked-list-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0025-reverse-nodes-in-k-group) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [1367-linked-list-in-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1367-linked-list-in-binary-tree) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## Recursion
 |  |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-flip-equivalent-binary-trees](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0951-flip-equivalent-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1367-linked-list-in-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0951-flip-equivalent-binary-trees](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0951-flip-equivalent-binary-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1367-linked-list-in-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |

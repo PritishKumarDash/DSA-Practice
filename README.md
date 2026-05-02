@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0700-search-in-a-binary-search-tree) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0700-search-in-a-binary-search-tree) |
@@ -281,4 +284,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->

@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0814-binary-tree-pruning) |
 | [0951-flip-equivalent-binary-trees](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0951-flip-equivalent-binary-trees) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0993-cousins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0657-robot-return-to-origin](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0657-robot-return-to-origin) |
 | [0692-top-k-frequent-words](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0692-top-k-frequent-words) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0988-smallest-string-starting-from-leaf) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3340-check-balanced-string](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3340-check-balanced-string) |
 ## Trie
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0113-path-sum-ii](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0257-binary-tree-paths) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Stack
 |  |
 | ------- |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0814-binary-tree-pruning) |
 | [0951-flip-equivalent-binary-trees](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0951-flip-equivalent-binary-trees) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0814-binary-tree-pruning) |
 | [0951-flip-equivalent-binary-trees](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0951-flip-equivalent-binary-trees) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1325-delete-leaves-with-a-given-value) |

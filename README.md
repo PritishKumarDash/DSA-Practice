@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0540-single-element-in-a-sorted-array](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0278-first-bad-version) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0540-single-element-in-a-sorted-array](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
 |  |

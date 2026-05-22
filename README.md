@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
+| [0278-first-bad-version](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0278-first-bad-version) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
@@ -366,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

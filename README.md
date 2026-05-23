@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0993-cousins-in-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0993-cousins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1367-linked-list-in-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1367-linked-list-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0993-cousins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1020-number-of-enclaves) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1765-map-of-highest-peak](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1765-map-of-highest-peak) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1367-linked-list-in-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1367-linked-list-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0988-smallest-string-starting-from-leaf](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0988-smallest-string-starting-from-leaf) |
 | [0993-cousins-in-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0993-cousins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1367-linked-list-in-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1367-linked-list-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1448-count-good-nodes-in-binary-tree) |

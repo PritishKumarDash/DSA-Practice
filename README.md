@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0988-smallest-string-starting-from-leaf) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3340-check-balanced-string](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3340-check-balanced-string) |
 ## Trie
 |  |

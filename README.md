@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3838-weighted-word-mapping](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3838-weighted-word-mapping) |
 ## Matrix
 |  |
 | ------- |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3340-check-balanced-string](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3340-check-balanced-string) |
+| [3838-weighted-word-mapping](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
 | ------- |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1929-concatenation-of-array) |
+| [3838-weighted-word-mapping](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3838-weighted-word-mapping) |
 ## Backtracking
 |  |
 | ------- |

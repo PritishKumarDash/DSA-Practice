@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0658-find-k-closest-elements) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [1367-linked-list-in-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1367-linked-list-in-binary-tree) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2074-reverse-nodes-in-even-length-groups) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |

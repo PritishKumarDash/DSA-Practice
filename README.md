@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0973-k-closest-points-to-origin](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1020-number-of-enclaves](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1020-number-of-enclaves) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## String Matching

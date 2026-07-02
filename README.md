@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0523-continuous-subarray-sum](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0542-01-matrix) |
 | [0658-find-k-closest-elements](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0735-asteroid-collision) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0542-01-matrix](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3753-total-waviness-of-numbers-in-range-ii) |

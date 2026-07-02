@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1609-even-odd-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1609-even-odd-tree) |
 | [1765-map-of-highest-peak](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1765-map-of-highest-peak) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1095-find-in-mountain-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1765-map-of-highest-peak](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1765-map-of-highest-peak) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1929-concatenation-of-array](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2126-destroying-asteroids](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2126-destroying-asteroids) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1020-number-of-enclaves](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1765-map-of-highest-peak](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1765-map-of-highest-peak) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Divide and Conquer

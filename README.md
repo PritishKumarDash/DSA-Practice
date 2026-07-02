@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1765-map-of-highest-peak](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1765-map-of-highest-peak) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Array
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2126-destroying-asteroids](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2574-left-and-right-sum-differences](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1765-map-of-highest-peak](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1765-map-of-highest-peak) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Divide and Conquer
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Quickselect
 |  |
@@ -513,5 +518,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->

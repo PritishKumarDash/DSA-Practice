@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0993-cousins-in-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0993-cousins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1302-deepest-leaves-sum) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0973-k-closest-points-to-origin](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1020-number-of-enclaves](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1095-find-in-mountain-array](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1095-find-in-mountain-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1765-map-of-highest-peak](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1765-map-of-highest-peak) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1020-number-of-enclaves](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1765-map-of-highest-peak](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1765-map-of-highest-peak) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |

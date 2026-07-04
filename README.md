@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Graph Theory
 |  |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Array
 |  |

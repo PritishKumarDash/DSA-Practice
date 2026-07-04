@@ -42,24 +42,50 @@ class Solution {
 // }
 
     public boolean canVisitAllRooms(List<List<Integer>> rooms) {
-        boolean[] vis = new boolean[rooms.size()];
 
-        dfs(0, rooms, vis);
+    // DFS Approach     
+    //     boolean[] vis = new boolean[rooms.size()];
 
-        for(int i = 0; i < rooms.size(); i++){
-            if(!vis[i]){
-                return false;
-            }
-        }
-        return true;
-    }
-    void dfs(int room, List<List<Integer>> rooms, boolean[] vis){
-        vis[room] = true;
+    //     dfs(0, rooms, vis);
 
-        for(int nei : rooms.get(room)){
+    //     for(int i = 0; i < rooms.size(); i++){
+    //         if(!vis[i]){
+    //             return false;
+    //         }
+    //     }
+    //     return true;
+    // }
+    // void dfs(int room, List<List<Integer>> rooms, boolean[] vis){
+    //     vis[room] = true;
+
+    //     for(int nei : rooms.get(room)){
+    //         if(!vis[nei]){
+    //             dfs(nei, rooms, vis);
+    //         }
+    //     }
+
+    // BFS approach
+
+    Queue<Integer> que = new LinkedList<>();
+    boolean[] vis = new boolean[rooms.size()];
+
+    que.offer(0);
+    vis[0] = true;
+
+    while(!que.isEmpty()){
+        int node = que.poll();
+        for(int nei : rooms.get(node)){
             if(!vis[nei]){
-                dfs(nei, rooms, vis);
+                vis[nei] = true;
+                que.offer(nei);
             }
         }
+    }
+    for(boolean key : vis){
+        if(!key){
+            return false;
+        }
+    }
+    return true;
     }
 }

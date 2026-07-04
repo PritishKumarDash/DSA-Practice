@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0841-keys-and-rooms) |
+| [0997-find-the-town-judge](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0973-k-closest-points-to-origin](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1095-find-in-mountain-array](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1095-find-in-mountain-array) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0692-top-k-frequent-words) |
+| [0997-find-the-town-judge](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0997-find-the-town-judge) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3121-count-the-number-of-special-characters-ii) |

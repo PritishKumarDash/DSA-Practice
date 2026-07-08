@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0997-find-the-town-judge) |
+| [1514-path-with-maximum-probability](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1514-path-with-maximum-probability) |
 | [1791-find-center-of-star-graph](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1095-find-in-mountain-array](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1095-find-in-mountain-array) |
+| [1514-path-with-maximum-probability](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1765-map-of-highest-peak](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1765-map-of-highest-peak) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0778-swim-in-rising-water) |
 | [0973-k-closest-points-to-origin](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
+| [1514-path-with-maximum-probability](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -552,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1514-path-with-maximum-probability) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->

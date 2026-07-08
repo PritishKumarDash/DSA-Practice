@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0669-trim-a-binary-search-tree) |
 | [0687-longest-univalue-path](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0687-longest-univalue-path) |
 | [0743-network-delay-time](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0778-swim-in-rising-water) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0797-all-paths-from-source-to-target](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0814-binary-tree-pruning](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0814-binary-tree-pruning) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0778-swim-in-rising-water) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0797-all-paths-from-source-to-target](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0841-keys-and-rooms) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0547-number-of-provinces) |
+| [0778-swim-in-rising-water](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0778-swim-in-rising-water) |
 | [1020-number-of-enclaves](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1971-find-if-path-exists-in-graph) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0746-min-cost-climbing-stairs) |
+| [0778-swim-in-rising-water](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0973-k-closest-points-to-origin](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0994-rotting-oranges) |
@@ -176,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0542-01-matrix) |
+| [0778-swim-in-rising-water](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -218,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0778-swim-in-rising-water) |
 | [0973-k-closest-points-to-origin](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1631-path-with-minimum-effort](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -278,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0658-find-k-closest-elements) |
+| [0778-swim-in-rising-water](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0778-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1095-find-in-mountain-array) |
 | [1631-path-with-minimum-effort](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1631-path-with-minimum-effort) |

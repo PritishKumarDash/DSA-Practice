@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0257-binary-tree-paths](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0657-robot-return-to-origin](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0657-robot-return-to-origin) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0735-asteroid-collision](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0735-asteroid-collision) |
 ## Tree
 |  |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0449-serialize-and-deserialize-bst](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0450-delete-node-in-a-bst) |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0449-serialize-and-deserialize-bst](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0450-delete-node-in-a-bst) |

@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
+| [0449-serialize-and-deserialize-bst](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
+| [0449-serialize-and-deserialize-bst](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0257-binary-tree-paths](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0657-robot-return-to-origin](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0657-robot-return-to-origin) |
 | [0692-top-k-frequent-words](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0692-top-k-frequent-words) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
+| [0449-serialize-and-deserialize-bst](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0513-find-bottom-left-tree-value) |
@@ -457,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
+| [0449-serialize-and-deserialize-bst](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0513-find-bottom-left-tree-value) |
@@ -489,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -502,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 ## Dynamic Programming
 |  |
 | ------- |

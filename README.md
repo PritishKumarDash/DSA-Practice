@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0072-edit-distance](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0072-edit-distance) |
 | [0257-binary-tree-paths](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0213-house-robber-ii) |

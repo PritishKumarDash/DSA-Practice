@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1929-concatenation-of-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3838-weighted-word-mapping](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3838-weighted-word-mapping) |
 ## Backtracking
 |  |

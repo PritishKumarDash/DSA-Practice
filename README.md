@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0046-permutations) |
 | [0063-unique-paths-ii](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0257-binary-tree-paths) |

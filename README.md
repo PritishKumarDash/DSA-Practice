@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1137-n-th-tribonacci-number) |
+| [1927-sum-game](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1927-sum-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1927-sum-game) |
 | [2126-destroying-asteroids](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PritishKumarDash/DSA-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PritishKumarDash/DSA-Practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -616,4 +619,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/PritishKumarDash/DSA-Practice/tree/master/0062-unique-paths) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/PritishKumarDash/DSA-Practice/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
